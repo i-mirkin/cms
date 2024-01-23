@@ -1,6 +1,5 @@
-build
-dist
-/media
+.idea
+.vs
 node_modules
 .DS_Store
 .env
